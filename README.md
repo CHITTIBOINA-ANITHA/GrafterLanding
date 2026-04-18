@@ -142,7 +142,7 @@ npm run dev
 ## Live Demo
 
 
-https://vercel.com/anithas-projects-f5dc88b8/grafter-landing
+https://grafter-landing.vercel.app/
 
 
 
